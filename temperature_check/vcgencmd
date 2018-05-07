@@ -1,0 +1,4 @@
+#!/bin/bash
+# Just a dummy vcgencmd :)
+echo temp=76.2\'C 
+
